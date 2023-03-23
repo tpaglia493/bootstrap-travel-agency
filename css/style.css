@@ -1,0 +1,17 @@
+.theme-color {
+    color: #9c2df6;
+}
+
+.bg-theme-color {
+    color: #9c2df6;
+}
+
+#search:hover {
+    color: white;
+    background-color: #9c2df6
+}
+
+#search:active {
+    background-color: #9c2df6;
+    color: white;
+}
